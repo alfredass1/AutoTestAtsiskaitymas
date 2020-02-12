@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8db1d705-5aef-4a67-a612-6309c12de053" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Xhymxbt2zzOFnbhxYqcVXQL02j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="TestNG.SeleniumTest">
+    <configuration name="SeleniumTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTesting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumTest.badRecordTest" type="TestNG" nameIsGenerated="true">
+      <module name="SeleniumTesting" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTest" />
+      <option name="METHOD_NAME" value="badRecordTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter2" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumTest.createRecordTest" type="TestNG" nameIsGenerated="true">
+      <module name="SeleniumTesting" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTest" />
+      <option name="METHOD_NAME" value="createRecordTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter2" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumTest.deleteRecordTest" type="TestNG" nameIsGenerated="true">
+      <module name="SeleniumTesting" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTest" />
+      <option name="METHOD_NAME" value="deleteRecordTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter2" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumTest.updateBadRecordTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTesting" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTest" />
+      <option name="METHOD_NAME" value="updateBadRecordTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter2" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumTest.updateRecordTest" type="TestNG" nameIsGenerated="true">
+      <module name="SeleniumTesting" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTest" />
+      <option name="METHOD_NAME" value="updateRecordTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter2" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.SeleniumTest.createRecordTest" />
+      <item itemvalue="TestNG.SeleniumTest.badRecordTest" />
+      <item itemvalue="TestNG.SeleniumTest.deleteRecordTest" />
+      <item itemvalue="TestNG.SeleniumTest.updateRecordTest" />
+      <item itemvalue="TestNG.SeleniumTest.updateBadRecordTest" />
+      <item itemvalue="TestNG.SeleniumTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SeleniumTest" />
+        <item itemvalue="TestNG.SeleniumTest.updateBadRecordTest" />
+        <item itemvalue="TestNG.SeleniumTest.deleteRecordTest" />
+        <item itemvalue="TestNG.SeleniumTest.badRecordTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8db1d705-5aef-4a67-a612-6309c12de053" name="Default Changelist" comment="" />
+      <created>1581512783731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581512783731</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="43" key="#SeleniumTest.badRecordTest" timestamp="1581531868192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="43" key="#SeleniumTest.badRecordTest/0.0.1536.824@0.0.1536.824" timestamp="1581531868192" />
+    <state x="477" y="43" key="#SeleniumTest.createRecordTest" timestamp="1581531859452">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="43" key="#SeleniumTest.createRecordTest/0.0.1536.824@0.0.1536.824" timestamp="1581531859452" />
+    <state x="477" y="43" key="#SeleniumTest.deleteRecordTest" timestamp="1581531872558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="43" key="#SeleniumTest.deleteRecordTest/0.0.1536.824@0.0.1536.824" timestamp="1581531872558" />
+    <state x="477" y="43" key="#SeleniumTest.updateRecordBadTest" timestamp="1581531888437">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="43" key="#SeleniumTest.updateRecordBadTest/0.0.1536.824@0.0.1536.824" timestamp="1581531888437" />
+    <state x="477" y="43" key="#SeleniumTest.updateRecordTest" timestamp="1581531885112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="43" key="#SeleniumTest.updateRecordTest/0.0.1536.824@0.0.1536.824" timestamp="1581531885112" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581535180811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1581535180811" />
+    <state x="507" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581533238365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="507" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1581533238365" />
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581535179202">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1581535179202" />
+    <state x="548" y="153" key="FileChooserDialogImpl" timestamp="1581531531968">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581531531968" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1581537387422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581537387422" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1581537387422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581537387422" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1581537387422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581537387422" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1581537387422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581537387422" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1581537036328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581537036328" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1581537036328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581537036328" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1581537036328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581537036328" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1581537036328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581537036328" />
+    <state x="482" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1581537287963">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="482" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581537287963" />
+    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581535888569">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581535888569" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SeleniumTesting$SeleniumTest_createRecordTest.ic" NAME="SeleniumTest.createRecordTest Coverage Results" MODIFIED="1581528124559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
