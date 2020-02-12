@@ -36,16 +36,3 @@ public class SeleniumTest {
     }
 
 }
-
-
-//String searchResultCount = browser.findElement(By.className("sb_count")).getText();
-//        String searchCount = searchResultCount.replaceAll("[ ,A-Za-z]+", "");
-//
-//        int count = Integer.parseInt(searchCount);
-//
-//        String message = "Rašytojas nelabai  populiarus internetinėse platybėse";
-//        if (count >= 50000) {
-//        message = searchResultCount + "\n" + "Džiaugiamės, jog  jaunimas dar neužmiršo Anykščių šilelio.";
-//        }
-//
-//        System.out.println(message);
